@@ -18,40 +18,30 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 
 
-#EXTINF:-1 tvg-chno="7" tvg-id="la7" tvg-name="La7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Altro",LA7
-https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
 
-#EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia",Tv8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-chno="9" tvg-id="nove" tvg-name="Nove" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery",Nove
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="test1" tvg-name="test1" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="Sport",Es 1
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="test2" tvg-name="test2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="Sport",Es 2
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="Ciao Usa" tvg-name="Ciao Usa" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciao-usa.jpg" group-title="Tv Italia",Ciao USA
-https://amg02347-ciaousafast-amg02347c1-ciao-us-1993.playouts.now.amagi.tv/playlist/amg02347-ciaousafast-ciaousalinear-ciaous/playlist.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="Rai 4K" tvg-name="rai 4k" tvg-logo="https://guidazero.com/wp-content/uploads/2022/12/rai4k.jpg" group-title="Rai Tv",Rai 4K
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="rsila1" tvg-name="RSI La1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Svizzeri",RSI La 1 offline
-https://www.kool.to/play/3579582219/index.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="rsila2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="Svizzeri",RSI La 2 offline
-http://livetv.ktv.zone/137/play.m3u8
+
+
 #EXTINF:-1 tvg-chno="16" tvg-id="teleticino" tvg-name="Teleticino" tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleticino.png" group-title="Svizzeri",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+
 #EXTINF:-1 tvg-chno="17" tvg-id="Trailers" tvg-name="trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20240117T032909SQUARE.png_20240117032910.png" group-title="Intrattenimento",Trailers
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="san marino rtv" tvg-name="San Marino Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6e/Logo_San_Marino_RTV.png" group-title="Tv Italia",San Marino Rtv
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+
+
 #EXTINF:-1 tvg-chno="19" tvg-id="wedding tv" tvg-name="Wedding Tv" tvg-logo="http://tv.10dailythings.com/images/channels/IT/wedding-tv/normal.png" group-title="Tv Italia",Wedding Tv
 https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="20" tvg-id="mediaset 20" tvg-name="Mediaset 20" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="Mediaset",Mediaset 20
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="rai 4" tvg-name="Rai 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" group-title="Rai Tv",Rai 4
-#EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
+
+
+
+#EXTINF:-1  tvg-chno="21" tvg-id="rai 4" tvg-name="Rai 4"  tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+
 #EXTINF:-1 tvg-chno="22" tvg-id="iris" tvg-name="Iris" tvg-logo="https://www.dagospia.com/img/foto/05-2013/logo-iris-241282.jpg" group-title="Mediaset",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="rai 5" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/dEFPWi8.png" group-title="Rai Tv",Rai 5
