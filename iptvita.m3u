@@ -16,8 +16,12 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-chno="6" tvg-id="italia 1" tvg-name="Italia 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
-#EXTINF:-1 tvg-chno="7" tvg-id="la7" tvg-name="La7" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Tv Italia",La 7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+
+#EXTINF:-1 tvg-chno="7" tvg-id="la7" tvg-name="La7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Altro",LA7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+
+
 #EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia",Tv8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-chno="9" tvg-id="nove" tvg-name="Nove" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery",Nove
