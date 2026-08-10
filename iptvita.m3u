@@ -22,6 +22,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-chno="6" tvg-id="italia 1" tvg-name="Italia 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Intrattenimento",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
 #EXTINF:-1 tvg-chno="16" tvg-id="teleticino" tvg-name="Teleticino" tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleticino.png" group-title="Svizzeri",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 
