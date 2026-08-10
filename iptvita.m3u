@@ -79,6 +79,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="top crime" tvg-name="Top Crime" tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Mediaset",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Intrattenimento",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
 #EXTINF:-1 tvg-chno="40" tvg-id="boing" tvg-name="Boing" tvg-logo="http://questaseraintv.altervista.org/img/emittenti-tv/boing.png?dfdg" group-title="Kids",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
@@ -95,6 +99,8 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://www.blogo.it/app/uploads/sites/2/2022/06/image002.png" group-title="Kids",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+
 
 
 
