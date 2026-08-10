@@ -83,9 +83,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Intrattenimento",Real Time
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
-
 #EXTINF:-1 tvg-chno="40" tvg-id="boing" tvg-name="Boing" tvg-logo="http://questaseraintv.altervista.org/img/emittenti-tv/boing.png?dfdg" group-title="Kids",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
