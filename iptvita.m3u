@@ -1,30 +1,31 @@
-#EXTINF:-1 tvg-chno="1" tvg-id="rai 1" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Rai Tv" user-agent="raiplayappletv",Rai 1
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="rai 1" tvg-name="Rai 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai Tv" user-agent="raiplayappletv",Rai 1
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="2" tvg-id="rai 2" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="Rai Tv" user-agent="raiplayappletv",Rai 2
+#EXTINF:-1 tvg-chno="2" tvg-id="rai 2" tvg-name="Rai 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai Tv" user-agent="raiplayappletv",Rai 2
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="3" tvg-id="rai 3" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Rai Tv",Rai 3
+#EXTINF:-1 tvg-chno="3" tvg-id="rai 3" tvg-name="Rai 3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai Tv",Rai 3
 #EXTVLCOPT:http-user-agent=rainet/4.0.4
 https://raisportdue1-dash-live.akamaized.net/dash/live/663973/raisportdue1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="4" tvg-id="rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rete_4_-_Logo_2018.svg/512px-Rete_4_-_Logo_2018.svg.png" group-title="Mediaset",Rete 4
+#EXTINF:-1 tvg-chno="4" tvg-id="rete 4" tvg-name="Rete 4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
 
-#EXTINF:-1 tvg-chno="5" tvg-id="canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_Logo_2018.svg/512px-Canale_5_-_Logo_2018.svg.png" group-title="Mediaset",Canale 5
+#EXTINF:-1 tvg-chno="5" tvg-id="canale 5" tvg-name="Canale 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 
-#EXTINF:-1 tvg-chno="6" tvg-id="italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Italia_1_-_Logo_2018.svg/512px-Italia_1_-_Logo_2018.svg.png" group-title="Mediaset",Italia 1
+#EXTINF:-1 tvg-chno="6" tvg-id="italia 1" tvg-name="Italia 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Real_Time_-_Logo_2022.svg/512px-Real_Time_-_Logo_2022.svg.png" group-title="Intrattenimento",Real Time
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Intrattenimento",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="teleticino" tvg-name="Teleticino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teleticino_logo.svg/512px-Teleticino_logo.svg.png" group-title="Svizzeri",Teleticino
+#EXTINF:-1 tvg-chno="16" tvg-id="teleticino" tvg-name="Teleticino" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/teleticino.png" group-title="Svizzeri",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="Trailers" tvg-name="trailers" tvg-logo="https://i.imgur.com/8QZ74Xy.png" group-title="Intrattenimento",Trailers
@@ -33,87 +34,87 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit
 #EXTINF:-1 tvg-chno="19" tvg-id="wedding tv" tvg-name="Wedding Tv" tvg-logo="https://i.imgur.com/J1yR9N5.png" group-title="Tv Italia",Wedding Tv
 https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="mediaset 20" tvg-name="Mediaset 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20_Mediaset_-_Logo_2018.svg/512px-20_Mediaset_-_Logo_2018.svg.png" group-title="Mediaset",Mediaset 20
+#EXTINF:-1 tvg-chno="20" tvg-id="mediaset 20" tvg-name="Mediaset 20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",Mediaset 20
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Iris_-_Logo_2018.svg/512px-Iris_-_Logo_2018.svg.png" group-title="Mediaset",Iris
+#EXTINF:-1 tvg-chno="22" tvg-id="iris" tvg-name="Iris" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="rai 5" tvg-name="Rai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Rai Tv",Rai 5
+#EXTINF:-1 tvg-chno="23" tvg-id="rai 5" tvg-name="Rai 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai Tv",Rai 5
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="24" tvg-id="rai movie" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png" group-title="Rai Tv",Rai Movie
+#EXTINF:-1 tvg-chno="24" tvg-id="rai movie" tvg-name="Rai Movie" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai Tv",Rai Movie
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="25" tvg-id="rai premium" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/512px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Rai Tv",Rai Premium
+#EXTINF:-1 tvg-chno="25" tvg-id="rai premium" tvg-name="Rai Premium" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai Tv",Rai Premium
 https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="27" tvg-id="twentyseven" tvg-name="TwentySeven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/TwentySeven_-_Logo_2022.svg/512px-TwentySeven_-_Logo_2022.svg.png" group-title="Mediaset",TwentySeven
+#EXTINF:-1 tvg-chno="27" tvg-id="twentyseven" tvg-name="TwentySeven" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",TwentySeven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-id="tv2000" tvg-name="Tv2000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TV2000_logo.svg/512px-TV2000_logo.svg.png" group-title="Tv Italia",Tv2000
+#EXTINF:-1 tvg-chno="28" tvg-id="tv2000" tvg-name="Tv2000" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Tv Italia",Tv2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="la 5" tvg-name="La 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/La5_Italy.svg/512px-La5_Italy.svg.png" group-title="Mediaset",La 5
+#EXTINF:-1 tvg-chno="30" tvg-id="la 5" tvg-name="La 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="qvc tv" tvg-name="Qvc Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/QVC_Logo.svg/512px-QVC_Logo.svg.png" group-title="Tv Italia",Qvc Tv
+#EXTINF:-1 tvg-chno="32" tvg-id="qvc tv" tvg-name="Qvc Tv" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Tv Italia",Qvc Tv
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/720p.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="cine 34" tvg-name="Cine 34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cine34_-_Logo_2020.svg/512px-Cine34_-_Logo_2020.svg.png" group-title="Mediaset",Cine34
+#EXTINF:-1 tvg-chno="34" tvg-id="cine 34" tvg-name="Cine 34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-id="focus" tvg-name="Focus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Focus_-_Logo_2018.svg/512px-Focus_-_Logo_2018.svg.png" group-title="Mediaset",Focus
+#EXTINF:-1 tvg-chno="35" tvg-id="focus" tvg-name="Focus" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="Mediaset",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="top crime" tvg-name="Top Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Top_Crime_-_Logo_2018.svg/512px-Top_Crime_-_Logo_2018.svg.png" group-title="Mediaset",Top Crime
+#EXTINF:-1 tvg-chno="39" tvg-id="top crime" tvg-name="Top Crime" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="boing" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boing_logo.svg/512px-Boing_logo.svg.png" group-title="Kids",Boing
+#EXTINF:-1 tvg-chno="40" tvg-id="boing" tvg-name="Boing" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Kids",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-id="rai gulp" tvg-name="Rai Gulp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rai_Gulp_-_Logo_2017.svg/512px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Kids",Rai Gulp
+#EXTINF:-1 tvg-chno="42" tvg-id="rai gulp" tvg-name="Rai Gulp" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Kids",Rai Gulp
 https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="43" tvg-id="rai yoyo" tvg-name="Rai Yoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rai_Yoyo_-_Logo_2017.svg/512px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Kids",Rai Yoyo
+#EXTINF:-1 tvg-chno="43" tvg-id="rai yoyo" tvg-name="Rai Yoyo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Kids",Rai Yoyo
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 
 #EXTINF:-1 tvg-chno="45" tvg-id="iunior channel" tvg-name="Iunior channel" tvg-logo="https://i.imgur.com/K12X8mB.png" group-title="Kids",Iunior channel
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartoonito_2021_logo.svg/512px-Cartoonito_2021_logo.svg.png" group-title="Kids",Cartoonito
+#EXTINF:-1 tvg-chno="46" tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Kids",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="rai news 24" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rai_News_24_-_Logo_2017.svg/512px-Rai_News_24_-_Logo_2017.svg.png" group-title="Notizie",RaiNews 24
+#EXTINF:-1 tvg-chno="48" tvg-id="rai news 24" tvg-name="Rai News 24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Notizie",RaiNews 24
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="49" tvg-id="italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Italia_2_-_Logo_2018.svg/512px-Italia_2_-_Logo_2018.svg.png" group-title="Mediaset",Italia 2
+#EXTINF:-1 tvg-chno="49" tvg-id="italia 2" tvg-name="Italia 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-id="tgcom 24" tvg-name="TgCom 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TGcom24_-_Logo_2018.svg/512px-TGcom24_-_Logo_2018.svg.png" group-title="Notizie",TgCom 24
+#EXTINF:-1 tvg-chno="51" tvg-id="tgcom 24" tvg-name="TgCom 24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Notizie",TgCom 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="casa italia 53" tvg-name="Casa Italia 53" tvg-logo="https://i.imgur.com/1Gf7Yp0.png" group-title="Tv Italia",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-id="rai storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Rai Tv",Rai Storia
+#EXTINF:-1 tvg-chno="54" tvg-id="rai storia" tvg-name="Rai Storia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai Tv",Rai Storia
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="55" tvg-id="mediaset extra" tvg-name="Mediaset Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediaset_Extra_-_Logo_2018.svg/512px-Mediaset_Extra_-_Logo_2018.svg.png" group-title="Mediaset",Mediaset Extra
+#EXTINF:-1 tvg-chno="55" tvg-id="mediaset extra" tvg-name="Mediaset Extra" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-id="rai scuola" tvg-name="Rai Scuola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Rai Tv",Rai Scuola
+#EXTINF:-1 tvg-chno="57" tvg-id="rai scuola" tvg-name="Rai Scuola" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai Tv",Rai Scuola
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="58" tvg-id="rai sport" tvg-name="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rai_Sport_-_Logo_2017.svg/512px-Rai_Sport_-_Logo_2017.svg.png" group-title="Sport",Rai Sport
+#EXTINF:-1 tvg-chno="58" tvg-id="rai sport" tvg-name="Rai Sport" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport.png" group-title="Sport",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
 
-#EXTINF:-1 tvg-chno="63" tvg-id="canale italia" tvg-name="Canale Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Canale_Italia_logo.svg/512px-Canale_Italia_logo.svg.png" group-title="Tv Italia",Canale Italia
+#EXTINF:-1 tvg-chno="63" tvg-id="canale italia" tvg-name="Canale Italia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canaleitalia.png" group-title="Tv Italia",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/chunklist_b1100000.m3u8
 
 #EXTINF:-1 tvg-id="giornale radio tv" tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/R3t6G4p.png" group-title="Notizie",Giornale Radio Tv
@@ -131,10 +132,10 @@ https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648
 #EXTINF:-1 tvg-id="orler tv" tvg-name="Orler tv" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="Tv Italia",Orler tv
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="uninettuno university tv" tvg-name="Uninettuno University Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Uninettuno.svg/512px-Logo_Uninettuno.svg.png" group-title="Notizie",Uninettuno University Tv
+#EXTINF:-1 tvg-id="uninettuno university tv" tvg-name="Uninettuno University Tv" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/uninettuno.png" group-title="Notizie",Uninettuno University Tv
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ducktv" tvg-name="ducktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ducktv_logo.png/512px-Ducktv_logo.png" group-title="Kids",Duck Tv
+#EXTINF:-1 tvg-id="ducktv" tvg-name="ducktv" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/ducktv.png" group-title="Kids",Duck Tv
 https://dxvpcwoxxgnqg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sakdd2jiy1b8-ssai-prd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="baby shark tv" tvg-name="Baby Shark Tv" tvg-logo="https://i.imgur.com/R3aXN8u.png" group-title="Kids",Baby Shark Tv
